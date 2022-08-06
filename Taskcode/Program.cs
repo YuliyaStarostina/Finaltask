@@ -11,20 +11,20 @@
 [Russia,Denmark,Kazan] -> [] */
 
 string[] result = CreateArray();
-ArrayShort(result);
+SelectedArray(result);
 
-void ArrayShort(string[] arr)
+void SelectedArray(string[] arr)
 {
     int size = 3;
-    var value = string.Empty;
+    var element = string.Empty;
     string[] newarr = new string[arr.Length]; // создать новый массив
     for (int i = 0; i < arr.Length; i++)
     {
-        value = arr[i];
-        if (value.Length <= size) // если элемент на позиции меньше условия для отбора
+        element = arr[i];
+        if (element.Length <= size) // если элемент на позиции меньше условия для отбора, то
             newarr[i] = arr[i];
     }
-    newarr = newarr.Where(x => x != null).ToArray(); // чтобы убрать пустые позиции массива 
+    newarr = newarr.Where(x => x != null).ToArray(); // убираем пустые позиции массива 
     Console.WriteLine($"Отобранный массив: [{string.Join(", ", newarr)}]");
 }
 
