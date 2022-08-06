@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Home\Finaltask\Taskcode\bin\Debug\net6.0\Taskcode.exe
+C:\Users\Asus\Desktop\Home\Finaltask\Taskcode\bin\Debug\net6.0\Taskcode.deps.json
+C:\Users\Asus\Desktop\Home\Finaltask\Taskcode\bin\Debug\net6.0\Taskcode.runtimeconfig.json
+C:\Users\Asus\Desktop\Home\Finaltask\Taskcode\bin\Debug\net6.0\Taskcode.dll
+C:\Users\Asus\Desktop\Home\Finaltask\Taskcode\bin\Debug\net6.0\Taskcode.pdb
+C:\Users\Asus\Desktop\Home\Finaltask\Taskcode\obj\Debug\net6.0\Taskcode.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Home\Finaltask\Taskcode\obj\Debug\net6.0\Taskcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Home\Finaltask\Taskcode\obj\Debug\net6.0\Taskcode.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Home\Finaltask\Taskcode\obj\Debug\net6.0\Taskcode.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Home\Finaltask\Taskcode\obj\Debug\net6.0\Taskcode.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Home\Finaltask\Taskcode\obj\Debug\net6.0\Taskcode.dll
+C:\Users\Asus\Desktop\Home\Finaltask\Taskcode\obj\Debug\net6.0\refint\Taskcode.dll
+C:\Users\Asus\Desktop\Home\Finaltask\Taskcode\obj\Debug\net6.0\Taskcode.pdb
+C:\Users\Asus\Desktop\Home\Finaltask\Taskcode\obj\Debug\net6.0\Taskcode.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Home\Finaltask\Taskcode\obj\Debug\net6.0\ref\Taskcode.dll
